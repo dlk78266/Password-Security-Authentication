@@ -1,0 +1,8 @@
+PS E:\DLK Projects\Passpython src/password_hasher.py 
+Enter a password to hash: Cyber123
+
+Generated Hash:
+$2b$12$T96lK8rT5a2Pdkxbjymb/eeZtCNqf/2EEI6CPdAaOftZuWbrT/J7u
+
+Enter password again for verification: Cyber123
+Password verified successfully.
